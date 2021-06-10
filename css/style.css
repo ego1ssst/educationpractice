@@ -1,0 +1,109 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    background-image: black;  
+    padding: 20px 0; 
+    color: white;
+    list-style: none;
+    background: #fefeff;
+    position: relative;
+    width: 1880px;
+    height: 48px;
+    margin: 0px auto;
+    z-index: 402;
+    font-family: 'Roboto','Arial', sans-serif;
+    font-size: 24px;
+    line-height: 28px;
+    font-style: normal;
+    font-weight: normal;
+    color: black;
+}
+
+.logo-link{
+    margin-right: 40px;
+    text-decoration: none;
+    float: left;
+    margin-left: 25px;
+
+}
+#header .menu {
+    position: absolute;
+    left: 200px;
+  
+}
+.products{
+    display: block;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 45px;
+    line-height: 28px;
+    float: left;
+}
+.learn{
+    display: block;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 45px;
+    line-height: 28px;
+    float: left;
+}
+.support{
+    display: block;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 45px;
+    line-height: 28px;
+    float: left;
+}
+.info{
+    display: block;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 45px;
+    line-height: 28px;
+    float: left;
+}
+.right-menu{
+    position: absolute;
+    right: 10px;
+    min-width: 220px;
+    height: 48px;
+    line-height: 48px;
+    z-index: 401;
+    line-height: 24px;
+    vertical-align: top;
+    display: inline-block;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+}
+.login{
+    display: block;
+    position: relative;
+    padding-top: 12px;
+    padding-left: 5px;
+    line-height: 28px;
+    float: left;
+}
+.signup{
+    position: absolute;
+    height: 48px;
+    left: 78px;
+    right: 36px;
+    background: #00C805;
+    border-radius: 24px;
+}
+.signup span{
+    position:absolute;
+    left: 20px;
+    top: 12px;
+}
+
+
+
+
