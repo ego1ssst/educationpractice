@@ -188,3 +188,193 @@
     width: 260px;
     
 }
+.justblock{
+    position: absolute;
+    height: 720px;
+    max-width: 1890px;
+    left: 0%;
+    right: 0%;
+    top: 808px;
+    margin: 0 auto;
+    
+}
+.schedule{
+
+max-width: 1890px;
+height: 124px;
+border: 1px solid black;
+}
+.schedule span{
+    position: relative;
+    left: 40%;
+    right: 40%;
+    top: 40%;
+    color:black;
+    font-family: Roboto;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    color: #000000;
+}
+.schedule span a{
+    font-weight: bolder;
+    border-bottom: 1px solid black;
+}
+.image{
+    position: absolute;
+    left: 1%;
+    height: 576px;
+    width: 1024px;
+}
+.textblock{
+    position:absolute;
+    height: 576px;
+    width: 832px;
+    right: 0%;
+}
+.invest{
+    position:absolute;
+    top: 30%;
+    left: 5%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 64px;
+    line-height: 90px;
+    letter-spacing: 2px;
+    color: #000000;
+}
+.campaign{
+    position:absolute;
+    top: 50%;
+    left: 6%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 32px;
+    line-height: 56px;
+    letter-spacing: 2px;
+    width: 320px; 
+}
+.campaign img{
+    position:absolute;
+    top: 25%;
+    left: 92%;
+}
+.infoblock{
+    position: absolute;
+    height: 720px;
+    max-width: 1890px;
+    left: 0%;
+    right: 0%;
+    top: 1510px;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;  
+}
+.infoblock img{
+    position: absolute;
+    top: 5%;
+    right: 0%;
+    width: 540px;
+    height: 680px;
+}
+.head-block{
+    position: absolute;
+    height: 180px;
+    width: 1080px;
+}
+.heading{
+font-family: Roboto;
+font-style: normal;
+font-weight: bolder;
+font-size: 42px;
+line-height: 40px;
+letter-spacing: 0.32px;
+color: #000000;
+position:absolute;
+top: 25%;
+left: 10%;
+}
+.und-heading{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 22px;
+line-height: 28px;
+letter-spacing: 0.25px;
+color: #6F787E;
+position:absolute;
+top: 70%;
+left: 10%;
+}
+.information{
+    position: absolute;
+    height: 540px;
+    bottom: 0px;
+    width: 1280px;
+}
+.IAA{
+    position:absolute;
+    top: 2%;
+    left: 7%;
+    width: 320px;
+    height: 480px;    
+}
+.headings{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 900;
+font-size: 26px;
+line-height: 28px;
+letter-spacing: 0.25px;
+color: #000000;
+position: absolute;
+top: 10%;
+width: 320px;
+}
+.default{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 400;   
+    font-size: 24px;
+    line-height: 28px;
+    letter-spacing: 0.25px;
+    color: #000000;
+    position: absolute;
+    top: 20%;
+    width: 320px;
+}
+.BBP{   
+    position:absolute;
+    width: 320px;
+    height: 480px;
+    left: 450px;
+    top: 2%; 
+}
+.TRT{
+    position:absolute;
+    top: 2%;
+    left: 840px; 
+    width: 320px;
+    height: 480px;   
+}
+.under-info{
+    position:absolute;
+    top: 60%;
+    left: 90px; 
+    width: 380px;
+    height: 128px;   
+}
+.sign-svg{
+    position:absolute;
+    left: 0%;
+}
+.under-info span{
+    position:absolute;
+    left: 12%;
+    top: 2%;
+    color: #6F787E;
+    font-size: 24px;
+}
