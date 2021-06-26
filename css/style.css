@@ -202,7 +202,8 @@
 
 max-width: 1890px;
 height: 124px;
-border: 1px solid black;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
 }
 .schedule span{
     position: relative;
