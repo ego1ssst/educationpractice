@@ -164,7 +164,7 @@
     background: #050505;
     border-radius: 24px;
 }
-.PrSignUp span{
+.PrSignUp a{
     font-size: 22px; 
     font-weight: bold;
     left: 44px;
@@ -467,3 +467,147 @@ left: 10%;
     left: 10%;
     top: 32%;
 }
+.bottomblock{
+    position: absolute;
+    height: 840px;
+    max-width: 1890px;
+    left: 0%;
+    right: 0%;
+    top: 2952px;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    background-color: #F0EBE6;
+}
+.OP{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 46px;
+    line-height: 40px;
+    letter-spacing: 0.32px;
+    color: #000000;
+    top: 15%;
+    position: absolute;
+    left: 10%;
+    height: 80px;
+    width: 280px;
+}
+.types{
+    height: 90px;
+    width: 1080px;
+    top: 25%;
+    position: absolute;
+    left: 10%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.32px;
+}
+.SM{
+    color: black;
+    position: absolute;
+    left: 0%;
+}
+.SF{
+    
+    position: absolute;
+    left: 32%;
+}
+.SF a{
+    color: #6F787E;
+}
+.Opt{
+    
+    position: absolute;
+    left: 58%;
+}
+.Opt a{
+    color: #6F787E;
+}
+.Gold{
+    
+    position: absolute;
+    left: 73%;
+    border-right: 1px solid black;
+    width: 100px;
+}
+.Gold a{
+    color: #6F787E;
+}
+.Crypto{
+    left: 85%;
+    position: absolute;
+}
+.Crypto a{
+    color: #FF90AF
+}
+.ProdInfo{
+    height: 420px;
+    width: 1080px;
+    position: absolute;
+    top: 32%;
+}
+.earn{
+    position: absolute;
+    left: 10%;
+    font-family: Roboto;
+font-style: normal;
+font-weight: bolder;
+font-size: 22px;
+line-height: 28px;
+letter-spacing: 0.25px;
+top: 20%;
+width: 480px;
+left: 18%;   
+}
+.LM{
+    position: absolute;
+    height: 42px;
+    top: 71%;
+    left: 17%;
+    right: 61%;
+    background: #050505;
+    border-radius: 24px;
+}
+.LM a{
+    color: white;
+    position: absolute;
+    left: 62px;
+    font-size: 24px;
+    top: 8px;
+}
+.VAD{
+    position:absolute;
+    width: 680px;
+    height: 120px;
+    top: 88%;
+    left: 10%;
+}
+.VAD span{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bolder;
+font-size: 26px;
+line-height: 28px;
+letter-spacing: 0.25px;
+position: absolute;
+color: #6F787E;
+left: 8%;
+top: 7%;
+}
+.BotImg{
+    position: absolute;
+    width: 720px;
+    left: 55%;
+    top: 10%;
+    
+}
+.undimg{ 
+    position: absolute;
+    top: 95%;
+    left: 75%;
+}
+
+   
