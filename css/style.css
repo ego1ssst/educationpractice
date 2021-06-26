@@ -378,3 +378,92 @@ width: 320px;
     color: #6F787E;
     font-size: 24px;
 }
+.blackblock{
+    position: absolute;
+    height: 720px;
+    max-width: 1890px;
+    left: 0%;
+    right: 0%;
+    top: 2232px;
+    margin: 0 auto;
+    border-bottom: 1px solid black;
+    background-color: black;
+}
+.swiper{
+    position: absolute;
+    top: 35%;
+    height: 280px;
+    width: 340px;
+    left: 10%;
+}
+.LAYG{
+    position: absolute;
+    top: 25%;
+    height: 240px;
+    width: 620px;
+    left: 45%;
+}
+.mobile{
+    position: absolute;
+    left: 15%;
+    top: 17%;
+}
+.up{
+    position: absolute;
+    left: 40%;
+    top: 2%;
+}
+.down{
+    position: absolute;
+    left: 38%;
+    bottom: 2%;
+}
+.swiper span{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 32px;
+line-height: 36px;
+letter-spacing: 0.24px;
+}
+.target{
+    color: white;
+    position: absolute;
+    top: 19%;
+    left: 22%;
+}
+.untarget1{
+    color: #545D61;
+    top: 40%;
+    position: absolute;
+    left: 11%;
+}
+.untarget2{
+    color: #545D61;
+    top: 62%;
+    position: absolute;
+}
+.LAYG span{
+    color: white;   
+}
+.lgheader{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bolder;
+font-size: 52px;
+line-height: 60px;
+letter-spacing: 1.75px;
+position: absolute;
+left: 10%;
+}
+.lginfo{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 36px;
+    letter-spacing: 1.75px;
+    position: absolute;
+    left: 10%;
+    top: 32%;
+}
