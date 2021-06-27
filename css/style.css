@@ -192,7 +192,7 @@ body{
 }
 .justblock{
     position: absolute;
-    height: 720px;
+    height: 690px;
     max-width: 1890px;
     left: 0%;
     right: 0%;
@@ -227,12 +227,12 @@ border-bottom: 1px solid black;
 .image{
     position: absolute;
     left: 1%;
-    height: 576px;
+    height: 566px;
     width: 1024px;
 }
 .textblock{
     position:absolute;
-    height: 576px;
+    height: 566px;
     width: 832px;
     right: 0%;
     background: #fefeff;
@@ -268,11 +268,11 @@ border-bottom: 1px solid black;
 }
 .infoblock{
     position: absolute;
-    height: 720px;
+    height: 740px;
     max-width: 1890px;
     left: 0%;
     right: 0%;
-    top: 1510px;
+    top: 1500px;
     margin: 0 auto;
     border-bottom: 1px solid black;
     border-top: 1px solid black;  
